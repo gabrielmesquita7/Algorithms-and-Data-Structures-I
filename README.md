@@ -9,7 +9,7 @@ O repositório em questão apresenta uma série de projetos que utilizam diferen
 - <a href="/solving_maze-BFS-and-DFS"> Solving Maze (DFS / BFS) </a>
 - <a href="/remove_same_names"> Remove Same Names </a>
 - <a href="/maximum_chain-"> Maximum chain </a>
-- <a href="/maximum-sum-"> Maximum Sum </a>
-- <a href="/counting_instructions-"> Contando Instruções </a>
-- <a href="/Treinamento-em-Estruturas-"> Treinamento em Estruturas (AEDS) </a>
-- <a href="/Labirinto_A_Estrela-"> A* </a>
+- <a href="/maximum-sum"> Maximum Sum </a>
+- <a href="/counting_instructions"> Contando Instruções </a>
+- <a href="/Treinamento-em-Estruturas"> Treinamento em Estruturas (AEDS) </a>
+- <a href="/Labirinto_A_Estrela"> A* </a>
